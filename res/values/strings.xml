@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Metro Controller</string>
+	<string-array name="langArray">
+		<item>Português</item>
+		<item>English</item>
+	</string-array>
+	<integer-array name="langValArray">
+		<item>0</item>
+		<item>1</item>
+	</integer-array>
+	<string name="crash_toast_text">Ooooops! A aplicação não se sentiu bem, um relatório do erro foi enviado para investigação.</string>
+	<string name="username">Username</string>
+	<string name="password">Password</string>
+	<string name="rememberpassword">Remember Password</string>
+	<string name="login">Login</string>
+	<string name="register">Register</string>
+	<string name="skip">Skip</string>
+	<string name="autologin">Auto Login</string>
+	<string-array name="countryArray">
+		<item>Portugal</item>
+	</string-array>
+	<string-array name="cityArray">
+		<item key="teste" id="1">Porto</item>
+		<item id="2">Lisboa</item>
+	</string-array>
+	<integer-array name="cityValArray">
+		<item>1</item>
+		<item>2</item>
+	</integer-array>
+	<string name="logout">Logout</string>
+	<string name="report">Reportar</string>
+	<string name="reportmetro">Reportar no Metro</string>
+	<string name="reportbus">Reportar no Autocarro</string>
+	<string name="reporttrain">Reportar no Comboio</string>
+	<string name="confirmPassword">Confirmar Password</string>
+	<string name="email">Email</string>
+	<string name="cancel">Cancelar</string>
+	<string name="main_no_items">Não há indicação de controlos.</string>
+	<string name="metro_controller_metro">METRO</string>
+	<string name="press_here">prima aqui para iniciar</string>
+	<string name="reported_at">Reportado na estação</string>
+	<string name="metro_controller_controller">CONTROLLER</string>
+	<string name="agreement">Ao utilizar esta aplicação está a aceitar os termos
+		de uso. Prima aqui para ler.</string>
+	<item type="id" name="s_a" />
+	<item type="id" name="s_b" />
+	<item type="id" name="s_c" />
+	<item type="id" name="s_d" />
+	<item type="id" name="s_e" />
+	<item type="id" name="s_f" />
+</resources>
